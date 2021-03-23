@@ -1,2 +1,3 @@
 Soy Axel y comienzo el curso de Git
 Tengo algo de experiencia
+Ahora es un estudiante por el momento
