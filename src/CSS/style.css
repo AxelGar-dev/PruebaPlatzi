@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+header {
+    height: 50px;
+    background-color: blue;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+.content {
+    width: 100%;
+    height: 50rem;
+    background-color: #000;
+}
+
+aside {
+    width: 19%;
+    height: 100%;
+    background-color: coral;
+}
+
+section {
+    width: 80%;
+    height: 100%;
+    background-color: cyan;
+}
+
+.main-content {
+    display: inline-block;
+}
+
+aside > div {
+    width: 50px;
+    height: 50px;
+    background-color: darkcyan;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: darkorange;
+    height: 50px;
+}
