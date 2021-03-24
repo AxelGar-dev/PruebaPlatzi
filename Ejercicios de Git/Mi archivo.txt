@@ -1,5 +1,4 @@
 Soy Axel y comienzo el curso de Git
 Tengo algo de experiencia
 Hablaremos de su vida laboral en un futuro
-He agregado algo más y es que ha tenido un certificado
-Está estudiando en Platzi desde hace 4 días
+Prueba de checkout de los commits
