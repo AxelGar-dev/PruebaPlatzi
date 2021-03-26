@@ -11,7 +11,7 @@ html {
 body {
     color: #333;
     text-align: center;
-    font-family: "Artial";
+    font-family: Arial;
     font-size: 2rem;
 }
 
@@ -34,11 +34,24 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5rem;
+    height: 5rem;
+    font-size: 3rem;
 }
 
 .cabecera .tagline {
     padding: 0 0 0 1rem;
     font-weight: normal;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
+#post {
+    padding: 1rem;
+}
+
+#post h1 {
+    font-size: 3rem;
+}
+
+#post p {
+    margin-top: 1rem;
+}
